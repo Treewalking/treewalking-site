@@ -1,4 +1,6 @@
 main:
+  - title: "The Manual"
+    url: /the-manual/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
