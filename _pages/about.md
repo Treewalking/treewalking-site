@@ -1,8 +1,18 @@
 ---
 permalink: /about/
 title: "About"
+author: Pat Bateman
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Treewalking is an odd name I came up with a long time ago to represent the many different techniques and styles used
+over the years within Product Delivery. I have been lucky enough to work in this industry during the Agile, DevOps and
+Lean revolutions, but also while organisations grappled with the off-shore, near-shore and on-shore resourcing models.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Treewalking brings together a collection of minds that have worked through this period for a range of organisations and
+industries. It particularly, focusing on a period of time within Worldpay/FIS where we got the opportunity to bring our
+collective minds together and built a Product Delivery organisation from the ground up. Treewalking is really the manual
+for how this was done, including the mistakes, in a hope that our experience will help others on this journey.
+
+This subject area is already well covered both from individual authors and industry research. We do not intend to create
+yet another model. Instead, we will cover how we used all this information and combined it with our own experiences
+to create a Lean Product Deliver organisation.
