@@ -1,7 +1,10 @@
 ---
+layout: single
 title: "How and What to Measure?"
 excerpt_separator: "<!--more-->"
 author: Pat Bateman
+header:
+  teaser: "measurement-feature.jpg"
 categories:
   - Blog
 tags:
