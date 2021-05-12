@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Tree Walking"
+title_separator: "-"
+subtitle: "Traversing Agile Product Delivery"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tree Walking is a collection of minds that have worked through a variety of agile transformations while using
+  a collection of techniques from industry research including Agile, Devops, Lean, DDD, etc.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
