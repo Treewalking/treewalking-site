@@ -24,3 +24,8 @@ didn't tell us if we are working on the right things.
 
 This article looks at the indicators that represent successful outcomes for the wider business, why they are important
 and how you can start measuring these indicators.
+
+## References
+
+* [Demystifying Leading Indicators in Product Development and Innovation](https://www.scaledagile.com/blog/demystifying-leading-indicators-in-product-development-and-innovation/)
+* [Measuring Business Value in DevOps and Agile Projects](https://www.linkedin.com/pulse/measuring-business-value-devops-agile-projects-andre-kaminski/)
