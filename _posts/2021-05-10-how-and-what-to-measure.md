@@ -29,3 +29,5 @@ and how you can start measuring these indicators.
 
 * [Demystifying Leading Indicators in Product Development and Innovation](https://www.scaledagile.com/blog/demystifying-leading-indicators-in-product-development-and-innovation/)
 * [Measuring Business Value in DevOps and Agile Projects](https://www.linkedin.com/pulse/measuring-business-value-devops-agile-projects-andre-kaminski/)
+* [Learning from the Accelerate “Four Key Metrics”](https://medium.com/ingeniouslysimple/learning-from-the-accelerate-four-key-metrics-91725675e30a)
+
