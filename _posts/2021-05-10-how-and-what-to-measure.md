@@ -3,19 +3,18 @@ title: "How and What to Measure?"
 excerpt_separator: "<!--more-->"
 author: Pat Bateman
 header:
+  overlay_color: "#5e616c"
+  overlay_image: "/assets/images/measurement-feature.png"
   teaser: "/assets/images/measurement-feature.png"
+excerpt: >
+  Before you start talking about what to measure, you need to go back and question your intent
 categories:
   - Blog
 tags:
   - measurement
 ---
 
-![](/assets/images/measurement-feature.png)
-
-
 {% include toc %}
-
-> Before you start talking about what to measure, you need to go back and think about your intent.
 
 ## Introduction
 
