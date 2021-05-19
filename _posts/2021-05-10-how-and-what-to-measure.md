@@ -12,6 +12,7 @@ tags:
 
 ![](/assets/images/measurement-feature.png)
 
+
 {% include toc %}
 
 > Before you start talking about what to measure, you need to go back and think about your intent. 
