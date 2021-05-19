@@ -1,12 +1,16 @@
 ---
 title: "Post: The State of DevOps Report 2020"
 last_modified_at: 2021-05-05T16:20:02-05:00
+header:
+  teaser: "/assets/images/state-of-devops-2020-feature.png"
 categories:
   - Blog 
 tags:
   - devops
 link: "https://puppet.com/resources/report/2020-state-of-devops-report/"
 ---
+
+![](/assets/images/state-of-devops-2020-feature.png)
 
 This is the ninth State of DevOps report. That's almost a decade of research and findings. The trend continues to 
 highlight the need apply the same level of scrutiny and quality we use on our products onto our internal platforms. The

@@ -1,15 +1,16 @@
 ---
-layout: single
 title: "How and What to Measure?"
 excerpt_separator: "<!--more-->"
 author: Pat Bateman
 header:
-  teaser: "measurement-feature.jpg"
+  teaser: "/assets/images/measurement-feature.png"
 categories:
   - Blog
 tags:
   - measurement
 ---
+
+![](/assets/images/measurement-feature.png)
 
 {% include toc %}
 
