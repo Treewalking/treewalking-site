@@ -2,15 +2,20 @@
 title: "Post: The State of DevOps Report 2020"
 last_modified_at: 2021-05-05T16:20:02-05:00
 header:
+  overlay_color: "#5e616c"
+  overlay_image: "/assets/images/state-of-devops-2020-feature.png"
   teaser: "/assets/images/state-of-devops-2020-feature.png"
+excerpt: >
+  Our Best Survey Yet!
+  This year’s survey includes over 2,400 participants around the world who work in IT, development, information security 
+  and related areas. The 2020 State of DevOps Report focuses on two areas that can help organizations scale their DevOps
+  initiative: a platform approach to software delivery and applying DevOps principles to change management.
 categories:
   - Blog 
 tags:
   - devops
 link: "https://puppet.com/resources/report/2020-state-of-devops-report/"
 ---
-
-![](/assets/images/state-of-devops-2020-feature.png)
 
 This is the ninth State of DevOps report. That's almost a decade of research and findings. The trend continues to 
 highlight the need apply the same level of scrutiny and quality we use on our products onto our internal platforms. The
