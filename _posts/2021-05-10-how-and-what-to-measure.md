@@ -31,9 +31,13 @@ and how you can start measuring these indicators.
 
 ## The Problem
 
-## Business Value
+## Which Indicators?
 
-## Lagging and Leading Indicators
+### Lagging and Leading Indicators
+
+### Business Value
+
+### Accelerate
 
 ## Measurement
 
