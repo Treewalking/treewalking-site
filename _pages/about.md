@@ -9,7 +9,7 @@ over the years within Product Delivery. I have been lucky enough to work in this
 Lean revolutions, but also while organisations grappled with the off-shore, near-shore and on-shore resourcing models.
 
 Treewalking brings together a collection of minds that have worked through this period for a range of organisations and
-industries. It particularly, focusing on a period of time within Worldpay/FIS where we got the opportunity to bring our
+industries. It particularly focuses on a period of time when we got the opportunity to bring our
 collective minds together and built a Product Delivery organisation from the ground up. Treewalking is really the manual
 for how this was done, including the mistakes, in a hope that our experience will help others on this journey.
 
