@@ -23,6 +23,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+google:
+  search_engine_id: 010942150958281322102:ewnzum3rhla
 
 # Build settings
 markdown: kramdown
