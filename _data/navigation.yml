@@ -22,6 +22,8 @@ manual:
         url: /the-manual/culture/principles
       - title: "Agile"
         url: /the-manual/culture/agile
+      - title: "Organisation"
+        url: /the-manual/culture/organisation
   - title: "Finance"
     url: /the-manual/finance
   - title: "Product"
@@ -32,3 +34,7 @@ manual:
     url: /the-manual/operations
   - title: "Measurement"
     url: /the-manual/measurement
+  - title: "Tools"
+    url: /the-manual/tools
+  - title: "Reference"
+    url: /the-manual/reference
