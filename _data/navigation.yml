@@ -9,3 +9,26 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+manual:
+  - title: "The Manual"
+    url: /the-manual
+  - title: "Introduction"
+    url: /the-manual/introduction
+  - title: "Culture"
+    url: /the-manual/culture
+    children:
+      - title: "Principles"
+        url: /the-manual/culture/principles
+      - title: "Agile"
+        url: /the-manual/culture/agile
+  - title: "Finance"
+    url: /the-manual/finance
+  - title: "Product"
+    url: /the-manual/product
+  - title: "Engineering"
+    url: /the-manual/engineering
+  - title: "Operations"
+    url: /the-manual/operations
+  - title: "Measurement"
+    url: /the-manual/measurement
