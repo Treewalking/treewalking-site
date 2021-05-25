@@ -36,5 +36,8 @@ manual:
     url: /the-manual/measurement
   - title: "Tools"
     url: /the-manual/tools
+    children:
+    - title: "Documentation"
+      url: /the-manual/documentation
   - title: "Reference"
     url: /the-manual/reference
