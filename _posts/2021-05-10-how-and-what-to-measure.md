@@ -31,7 +31,33 @@ and how you can start measuring these indicators.
 
 ## The Problem
 
+We measure and track so that we can make informed decisions within the delivery process. Having the right detail at our 
+fingertips means we can make timely decisions to avoid unnecessary waste and effort. However, there are many dimensions
+of activity and behaviour that are important indicators to our success.
+
+So the problem we're really trying to solve being the ability to react early and quickly based on how we're progressing
+against our objectives, but also any changes in the business predictions against our targets. Changing priority and 
+pivoting are expensive and disruptive activities, thus having reliable data to justify these decisions is crucial.
+
+We also want to drive the continuous improvement feedback loops at all levels. This helps the delivery organisation 
+focus on waste reduction, quality, re-use, etc. Anything that supports the principles and continuous improvement 
+culture.
+
+And finally, we are often constrained by our constraints and dependencies. These constraints and dependencies can have a
+dramatic impact on our delivery predictability. So, how do we control these and drive positive decisions to improve our
+overall predictability. 
+
 ## Which Indicators?
+
+> Which indicators should you chose to measure? 
+
+Let's enumerate the dimensions of progress and success.
+
+* **Business** - Are we meeting our business objectives? Depending on the type of product and sector, this can mean different things, but in reality we're supporting the business and its goals. Without high performance in this dimension, the other dimensions are quite meaningless.
+* **Delivery** - The efficiency and predictability of taking ideas/requirements into the beginning of the delivery pipeline to getting them into the hands of the customer. 
+* **Quality** - There are many levels of quality. Scrutinizing our quality at all stages of the delivery pipeline and operational drives continuous improvement and insights to our ways of working 
+* **Organisational** - A delivery organisation has many roles and responsibilities. Co-ordination and efficiency of the teams contributing to the overall delivery has a significant impact on the overall result
+* **Operational** - How the product performs both commercially and technically in the hands of our customers 
 
 ### Lagging and Leading Indicators
 

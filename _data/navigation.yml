@@ -38,6 +38,6 @@ manual:
     url: /the-manual/tools
     children:
     - title: "Documentation"
-      url: /the-manual/documentation
+      url: /the-manual/tools/documentation
   - title: "Reference"
     url: /the-manual/reference
