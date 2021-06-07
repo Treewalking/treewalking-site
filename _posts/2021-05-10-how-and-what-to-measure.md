@@ -29,13 +29,15 @@ it was only part of the picture and didn't tell us if we are working on the righ
 This article looks at the indicators that represent successful outcomes for the wider business, why they are important
 and how you can start measuring these indicators.
 
+A lot of the information used in this post is covered in more detail in [The Manual - Measurement](/the-manual/measurement).
+
 ## The Problem
 
 We measure and track so that we can make informed decisions within the delivery process. Having the right detail at our 
 fingertips means we can make timely decisions to avoid unnecessary waste and effort. However, there are many dimensions
 of activity and behaviour that are important indicators to our success.
 
-So the problem we're really trying to solve being the ability to react early and quickly based on how we're progressing
+So the problem we're really trying to solve is the ability to react early and quickly based on how we're progressing
 against our objectives, but also any changes in the business predictions against our targets. Changing priority and 
 pivoting are expensive and disruptive activities, thus having reliable data to justify these decisions is crucial.
 
@@ -43,7 +45,7 @@ We also want to drive the continuous improvement feedback loops at all levels. T
 focus on waste reduction, quality, re-use, etc. Anything that supports the principles and continuous improvement 
 culture.
 
-And finally, we are often constrained by our constraints and dependencies. These constraints and dependencies can have a
+Finally, we are often blocked by our constraints and dependencies. These constraints and dependencies can have a
 dramatic impact on our delivery predictability. So, how do we control these and drive positive decisions to improve our
 overall predictability. 
 

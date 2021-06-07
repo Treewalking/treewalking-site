@@ -34,6 +34,19 @@ manual:
     url: /the-manual/operations
   - title: "Measurement"
     url: /the-manual/measurement
+    children:
+      - titile: "Business"
+        url: /the-manual/measurement/business
+      - titile: "Delivery"
+        url: /the-manual/measurement/delivery
+      - titile: "Quality"
+        url: /the-manual/measurement/quality
+      - titile: "Organisational"
+        url: /the-manual/measurement/organisation
+      - titile: "Operational"
+        url: /the-manual/measurement/operational
+      - titile: "Finance"
+        url: /the-manual/measurement/finance
   - title: "Tools"
     url: /the-manual/tools
     children:
