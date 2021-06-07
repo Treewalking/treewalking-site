@@ -35,17 +35,17 @@ manual:
   - title: "Measurement"
     url: /the-manual/measurement
     children:
-      - titile: "Business"
+      - title: "Business"
         url: /the-manual/measurement/business
-      - titile: "Delivery"
+      - title: "Delivery"
         url: /the-manual/measurement/delivery
-      - titile: "Quality"
+      - title: "Quality"
         url: /the-manual/measurement/quality
-      - titile: "Organisational"
+      - title: "Organisational"
         url: /the-manual/measurement/organisation
-      - titile: "Operational"
+      - title: "Operational"
         url: /the-manual/measurement/operational
-      - titile: "Finance"
+      - title: "Finance"
         url: /the-manual/measurement/finance
   - title: "Tools"
     url: /the-manual/tools

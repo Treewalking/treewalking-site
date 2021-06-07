@@ -34,12 +34,15 @@ performance management tool.
 
 ## Indicators 
 
-| Indicator | Description |
-|-----------|-------------|
-| [Business](business)  
-| [Delivery](delivery)
-| [Quality](quality)
-| [Organisational](organisational) 
-| [Operational](operational)
-| [Finance](finance)
+We break our measurement section into a set of categories of indicators that have different purposes and stakeholders.
+No one single indicator can tell you the whole story, but they are used in combination to produce an overall picture.
+
+| Indicator                        | Description |
+|----------------------------------|-------------|
+| [Business](business)             | Indicators that describe how your organisation is release value to its customers and how the product performs against the original business case.
+| [Delivery](delivery)             | Indicators that describe the flow of work from the point of idea to the point where the customer can start using the new features
+| [Quality](quality)               | Indicators that inform and notify your organisation that you upholding your quality and compliance standards
+| [Organisational](organisational) | Indicators that describe the maturity and capability of your organisation 
+| [Operational](operational)       | Indicators that describe the performance of the product once in its operational state. This is broken down further into business performance and technical performance
+| [Finance](finance)               | Indicators that inform and notify your organisation that your product is operating within the cost tolerance
 
