@@ -19,17 +19,17 @@ tags:
 ## Introduction
 
 We've working in many environments where the organisation has picked up a standard set of Agile metrics in a hope that
-this will inform them that they're making the correct level of progress. But what constitutes progress? 
+this will inform them that they're making the correct level of progress. But, what constitutes progress? 
 
 There are a huge number of metrics that can be measured, and a lot of industry literature associated with these metrics.
-In most cases this has happened in a  functional vacuum. In other words, we were only measuring to the boundary of our
+In most cases this has happened in a functional vacuum. In other words, we were only measuring to the boundary of our
 control, and not the end-to-end business outcomes. This meant we were measuring what we thought represented success, but
 it was only part of the picture and didn't tell us if we are working on the right things.
 
 This article looks at the indicators that represent successful outcomes for the wider business, why they are important
 and how you can start measuring these indicators.
 
-A lot of the information used in this post is covered in more detail in [The Manual - Measurement](/_pages/the-manual/measurement).
+A lot of the information used in this post is covered in more detail in [The Manual - Measurement](/the-manual/measurement).
 
 ## The Problem
 
@@ -60,6 +60,16 @@ Let's enumerate the dimensions of progress and success.
 * **Quality** - There are many levels of quality. Scrutinizing our quality at all stages of the delivery pipeline and operational drives continuous improvement and insights to our ways of working 
 * **Organisational** - A delivery organisation has many roles and responsibilities. Co-ordination and efficiency of the teams contributing to the overall delivery has a significant impact on the overall result
 * **Operational** - How the product performs both commercially and technically in the hands of our customers 
+
+The key point is that no single indicator can give you the complete picture. Each indicator will drive insight and will 
+allow you to make adjustments, but they cannot (and should not) be used in isolation. 
+
+What we have discovered is that you need to pick a set of indicators that fit your intent and culture. When we first
+started, we tried to measure too much and then got swamped in information overload with very little time to analyse the
+data. This devalued the information in the eyes of the teams, thus the whole exercised backfired.
+
+This leads to the other finding in this area. Measurement is an iterative process. You try it, testing and then 
+adapt, just like any other agile process.
 
 ### Lagging and Leading Indicators
 
