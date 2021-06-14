@@ -87,7 +87,7 @@ For is post we'll describe the indicators we landed on and why.
 
 ## Measurement
 
-> Capturing data manually dramatically decreases the value of the insights you get from the data. 
+> Capturing data manually dramatically decreases the value of the insights. **Automate everything!**
  
 
 ## Summary
