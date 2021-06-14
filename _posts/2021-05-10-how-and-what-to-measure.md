@@ -71,13 +71,24 @@ data. This devalued the information in the eyes of the teams, thus the whole exe
 This leads to the other finding in this area. Measurement is an iterative process. You try it, testing and then 
 adapt, just like any other agile process.
 
-### Lagging and Leading Indicators
+For is post we'll describe the indicators we landed on and why.
 
 ### Business Value
 
-### Accelerate
+### Lead Time
+
+### Deployment Frequency 
+
+### Change-Fail Percentage
+
+### Meant Time to Restore
+
+### Availability
 
 ## Measurement
+
+> Capturing data manually dramatically decreases the value of the insights you get from the data. 
+ 
 
 ## Summary
 
