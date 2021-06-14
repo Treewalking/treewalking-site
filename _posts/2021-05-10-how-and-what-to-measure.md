@@ -29,7 +29,7 @@ it was only part of the picture and didn't tell us if we are working on the righ
 This article looks at the indicators that represent successful outcomes for the wider business, why they are important
 and how you can start measuring these indicators.
 
-A lot of the information used in this post is covered in more detail in [The Manual - Measurement](/the-manual/measurement).
+A lot of the information used in this post is covered in more detail in [The Manual - Measurement](/_pages/the-manual/measurement).
 
 ## The Problem
 
